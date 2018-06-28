@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-28-june-cw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jportella93/algorithms-28-june-cw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jportella93/algorithms-28-june-cw/issues"
+  },
+  "homepage": "https://github.com/jportella93/algorithms-28-june-cw#readme",
+  "dependencies": {
+    "jest": "^23.2.0"
+  }
+}
